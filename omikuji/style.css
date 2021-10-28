@@ -1,0 +1,19 @@
+html {
+    background-color: brown;
+}
+
+.omikuji {
+    text-align: center;
+    margin-top: 300px;
+}
+
+.echo {
+    font-size: 100px;
+}
+
+button {
+    font-size: 40px;
+    color: black;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+}
