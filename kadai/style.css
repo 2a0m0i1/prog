@@ -1,0 +1,19 @@
+#gu_btn {
+    border-radius: 30px;
+}
+
+#cho_btn {
+    border-radius: 30px;
+}
+
+#par_btn {
+    border-radius: 30px;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    border-top: none;
+}
