@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    font-size: 32px;
+    width: 100%;
+    background: #E9C46A;
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 100%;
+    color: #E76F51;
+    background-color: #fff;
+    margin-left: 500px;
+    margin-right: 500px;
+    box-shadow: 3px 3px 3px 2px #555;
+    border-radius: 50px;
+}
+
+h2 {
+    font-size: 100%;
+    color: #000000;
+    box-shadow: 3px 3px 3px 2px #555;
+    background-color: pink;
+    text-align: center;
+    margin-right: 1200px;
+    margin-left: 45px;
+}
+
+main {
+    width: 100%;
+    display: block;
+    position: relative;
+}
+
+footer {
+    background-color: #fff;
+    text-align: center;
+}
+
+p {
+    font-size: 200%;
+    text-align: center;
+    height: 200px;
+}
+
+ul {
+    padding: 0;
+    display: table;
+    /* 定義 */
+    table-layout: fixed;
+    width: 96%;
+    font-size: 80%;
+    margin: 0 3%;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    border-radius: 50px;
+    border: 1px solid #666;
+    background-color: #fff;
+    margin-bottom: 20px;
+    margin-right: 600px;
+    margin-left: 600px;
+    box-shadow: 3px 3px 3px 2px #555;
+    /* 定義 */
+    cursor: pointer;
+    color: #0d7dfd;
+}
+
+li:hover {
+    background: #0d7dfd;
+    color: #fff;
+}
+
+textarea {
+    margin: 10px 3%;
+    width: 95%;
+    height: 100px;
+    font-size: 80%;
+    background-color: rgb(241, 239, 239);
+    margin-bottom: 50px;
+    box-shadow: 3px 3px 3px 2px #555;
+}
+
+#key {
+    margin: 0 3%;
+    width: 95%;
+    font-size: 80%;
+    background-color: #e1efff;
+    box-shadow: 3px 3px 3px 2px #555;
+}
+
+table {
+    margin: 20px 3%;
+    width: 96%;
+}
+
+th {
+    width: 30%;
+    font-size: 24px;
+    background-color: #d0e7fc;
+    border-bottom: 1px solid #8dc3f5;
+}
+
+td {
+    font-size: 16px;
+    background-color: rgb(241, 239, 239);
+    border-bottom: 1px solid #8dc3f5;
+}
